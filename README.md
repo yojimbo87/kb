@@ -1,11 +1,11 @@
 ## Knowledge base
 
- - [Languages]()
- - [Databases]()
+ - [Languages](#languages)
+ - [Databases](#databases)
 
 ### Languages
 
- - [Lua]()
+ - [Lua](languages/lua.md)
 
 ### Databases
 
