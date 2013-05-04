@@ -1,13 +1,14 @@
 ## Knowledge base
 
- - [Languages](#languages)
  - [Databases](#databases)
-
-### Languages
-
- - [Lua](languages/lua.md)
+ - [Languages](#languages)
 
 ### Databases
 
- - [OrientDB]()
- - [Redis]()
+ - [OrientDB](databases/orientdb.md)
+ - [Redis](databases/redis.md)
+
+### Languages
+
+ - [Gremlin](languages/gremlin.md)
+ - [Lua](languages/lua.md)
