@@ -2,6 +2,7 @@
 
  - [Databases](#databases)
  - [Languages](#languages)
+ - [Libraries](#libraries)
 
 ### Databases
 
@@ -12,3 +13,7 @@
 
  - [Gremlin](languages/gremlin.md)
  - [Lua](languages/lua.md)
+
+### Libraries
+
+ - [ServiceStack](libraries/serviceStack.md)
