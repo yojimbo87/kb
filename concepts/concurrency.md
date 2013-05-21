@@ -1,0 +1,2 @@
+ - [Concurrency vs Parallelism - What is the difference?](http://stackoverflow.com/questions/1050222/concurrency-vs-parallelism-what-is-the-difference)
+ - [Concurrency is not Parallelism (it's better)](http://concur.rspace.googlecode.com/hg/talk/concur.html#title-slide)
