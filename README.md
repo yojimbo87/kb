@@ -10,6 +10,11 @@
 
  - [Geoponics](agriculture/geoponics.md)
 
+### Concepts
+
+ - [Concurrency](concepts/concurrency.md)
+ - [REST](concepts/rest.md)
+
 ### Databases
 
  - [Neo4j](databases/neo4j.md)
@@ -24,8 +29,3 @@
 ### Libraries
 
  - [ServiceStack](libraries/serviceStack.md)
-
-### Concepts
-
- - [Concurrency](concepts/concurrency.md)
- - [REST](concepts/rest.md)
