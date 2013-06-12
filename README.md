@@ -1,10 +1,10 @@
 ## Knowledge base
 
  - [Agriculture](#agriculture)
+ - [Concepts](#concepts)
  - [Databases](#databases)
  - [Languages](#languages)
  - [Libraries](#libraries)
- - [Concepts](#concepts)
 
 ### Agriculture
 
@@ -12,6 +12,7 @@
 
 ### Databases
 
+ - [Neo4j](databases/neo4j.md)
  - [OrientDB](databases/orientdb.md)
  - [Redis](databases/redis.md)
 
