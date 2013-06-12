@@ -27,3 +27,4 @@
 ### Concepts
 
  - [Concurrency](concepts/concurrency.md)
+ - [REST](concepts/rest.md)
