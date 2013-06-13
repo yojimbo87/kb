@@ -1,7 +1,7 @@
 ## Mono
 
- - [Installation]
- - [Uninstall]
+ - [Installation](#installation)
+ - [Uninstall](#uninstall)
 
 ### Installation
 
@@ -11,7 +11,7 @@ Dependencies (Ubuntu):
 apt-get install git-core build-essential autocond libtool automake gettext
 ```
 
-Download
+Download:
 
 ```
 mkdir /var/src/
@@ -27,6 +27,7 @@ Build:
 make get-monolite-latest
 make EXTERNAL_MCS=${PWD}/mcs/class/lib/monolite/gmcs.exe
 make install
+```
 
 Check if mono was installed correctly:
 
