@@ -70,7 +70,7 @@ nginx.conf
 # rewrites all http requests to https
 server {
         listen 80;
-        server_name yandere.developmententity.sk;
+        server_name foo.bar.baz;
  
         rewrite ^(.*) https://$host$1 permanent;
 }
