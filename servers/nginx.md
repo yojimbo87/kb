@@ -20,6 +20,7 @@ mkdir /var/src/nginx/
 cd /var/src/nginx/
 wget ...tar.gz
 tar -xvf ...tar.gz
+cd nginx-<version>
 ```
 
 Build:
