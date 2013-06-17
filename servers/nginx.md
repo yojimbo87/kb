@@ -3,6 +3,7 @@
  - [Installation](#installation)
  - [Basic authentication](#basic-authentication)
  - [SSL configuration](#ssl-configuration)
+ - [Default website fallback](#default-website-fallback)
  - [Resources](#resources)
  
 ### Installation
@@ -96,6 +97,22 @@ server {
         }
  
         ...
+}
+```
+
+### Default website fallback
+
+nginx.conf
+
+```
+server {
+        listen 80;
+        server_name default_server;
+
+        location / {
+                root /var/www/default/;
+                index index.html;
+        }
 }
 ```
 
