@@ -14,6 +14,7 @@
 
 ### Concepts
 
+ - [Authentication](concepts/authentication.md)
  - [Concurrency](concepts/concurrency.md)
  - [REST](concepts/rest.md)
 
