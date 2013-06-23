@@ -35,6 +35,7 @@
 
 ### Libraries
 
+ - [Nancy](libraries/nancy.md)
  - [ServiceStack](libraries/serviceStack.md)
 
 ### Servers
