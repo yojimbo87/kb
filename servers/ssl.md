@@ -18,3 +18,5 @@ x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
 
  - [OpenSSL binaries](http://www.openssl.org/related/binaries.html)
  - [Use OpenSSL on Windows](http://www.faqforge.com/windows/use-openssl-on-windows/)
+
+ - [Cheapest found SSL certificate](http://www.exossl.sk/#certifikaty)
