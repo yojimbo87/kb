@@ -122,6 +122,7 @@ server {
  - [Ubuntu init](http://wiki.nginx.org/Nginx-init-ubuntu)
  - [HTTP Basic Auth module](http://wiki.nginx.org/HttpAuthBasicModule)
  - [SSL configuration](http://nginx.org/en/docs/http/configuring_https_servers.html)
+ - [SSL config example](https://github.com/properssl/nginx-pfs/blob/master/Vagrant-setup/share/ssl-pfs-site.conf)
  - [Using nginx to avoid node.js load](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/)
  - [Zero downtime deployments with nginx](http://blog.argteam.com/coding/hardening-node-js-for-production-part-3-zero-downtime-deployments-with-nginx/)
 
