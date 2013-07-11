@@ -30,6 +30,7 @@
 
 ### Languages
 
+ - [C#](languages/csharp.md)
  - [Gremlin](languages/gremlin.md)
  - [Lua](languages/lua.md)
 
