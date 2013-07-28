@@ -36,6 +36,7 @@
 
 ### Libraries
 
+ - [cURL](libraries/curl.md)
  - [Nancy](libraries/nancy.md)
  - [ServiceStack](libraries/serviceStack.md)
 
