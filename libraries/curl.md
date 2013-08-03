@@ -11,5 +11,5 @@
 ### Send POST with data
 
 ```
-curl --data "{'request':{'serverTimestamp':'2008-12-20T02:12:02Z','service':'events','search':null}}" http://127.0.0.1/mobile/v1/endpoint | json -i
+curl -H "Content-Type:application/json" --data "{'request':{'serverTimestamp':'2008-12-20T02:12:02Z','service':'events','search':null}}" http://127.0.0.1:2480/mobile/v1/endpoint | json -i
 ```
