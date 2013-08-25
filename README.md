@@ -16,6 +16,7 @@
 
  - [Authentication](concepts/authentication.md)
  - [Concurrency](concepts/concurrency.md)
+ - [Device fingerprinting](concepts/deviceFingerprinting.md)
  - [REST](concepts/rest.md)
 
 ### Databases
