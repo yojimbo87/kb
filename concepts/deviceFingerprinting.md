@@ -1,8 +1,9 @@
 ## Resources
 
+ - [A Primer on Information Theory and Privacy](https://www.eff.org/deeplinks/2010/01/primer-information-theory-and-privacy)
  - [Device fingerprint @ wiki](http://en.wikipedia.org/wiki/Device_fingerprint)
  - [Fingerprinting @ mdn](https://wiki.mozilla.org/Fingerprinting)
- - [A Primer on Information Theory and Privacy](https://www.eff.org/deeplinks/2010/01/primer-information-theory-and-privacy)
+ - [Is browser fingerprinting a viable technique for identifying anonymous users?](http://programmers.stackexchange.com/questions/122372/is-browser-fingerprinting-a-viable-technique-for-identifying-anonymous-users)
  
 ## Research papers
 
