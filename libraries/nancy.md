@@ -12,3 +12,4 @@
 ### Routes and routing
 
  - [Defining routes](https://github.com/NancyFx/Nancy/wiki/Defining%20routes)
+ - [Async route handling](http://blog.jonathanchannon.com/2013/08/24/async-route-handling-with-nancy/)
