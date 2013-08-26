@@ -11,3 +11,5 @@
  - [User Tracking on the Web via Cross-Browser 
 Fingerprinting](http://pet-portal.eu/files/articles/2011/fingerprinting/cross-browser_fingerprinting.pdf)
  - [Web tracking](http://www.snet.tu-berlin.de/fileadmin/fg220/courses/SS11/snet-project/web-tracking_schmuecker.pdf)
+ - [Fingerprinting Information
+in JavaScript Implementations](http://w2spconf.com/2011/papers/jspriv.pdf)
