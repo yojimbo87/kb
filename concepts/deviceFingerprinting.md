@@ -13,3 +13,4 @@ Fingerprinting](http://pet-portal.eu/files/articles/2011/fingerprinting/cross-br
  - [Web tracking](http://www.snet.tu-berlin.de/fileadmin/fg220/courses/SS11/snet-project/web-tracking_schmuecker.pdf)
  - [Fingerprinting Information
 in JavaScript Implementations](http://w2spconf.com/2011/papers/jspriv.pdf)
+ - [Pixel Perfect: Fingerprinting Canvas in HTML5](http://cseweb.ucsd.edu/~hovav/dist/canvas.pdf)
