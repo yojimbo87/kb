@@ -17,6 +17,7 @@
  - [Authentication](concepts/authentication.md)
  - [Concurrency](concepts/concurrency.md)
  - [Device fingerprinting](concepts/deviceFingerprinting.md)
+ - [Psychographics](concepts/psychographics.md)
  - [REST](concepts/rest.md)
 
 ### Databases
