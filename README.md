@@ -19,6 +19,7 @@
  - [Device fingerprinting](concepts/deviceFingerprinting.md)
  - [Psychographics](concepts/psychographics.md)
  - [REST](concepts/rest.md)
+ - [Search](concepts/search.md)
 
 ### Databases
 
