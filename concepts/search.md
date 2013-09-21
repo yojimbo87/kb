@@ -9,3 +9,9 @@
  - [Stanford Named Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml)
  - [CRFSharp](http://sourceforge.net/projects/crfsharp/)
  - [SharpNLP - open source natural language processing tools](http://sharpnlp.codeplex.com/)
+
+## C# code
+
+ - [Aho-Corasick string matching in C#](http://www.codeproject.com/Articles/12383/Aho-Corasick-string-matching-in-C)
+ - [Four Functions for Finding Fuzzy String Matches in C# Extensions](http://www.tsjensen.com/blog/post/2011/05/27/Four+Functions+For+Finding+Fuzzy+String+Matches+In+C+Extensions.aspx)
+ - [Fuzzy Search](http://www.codeproject.com/Articles/36869/Fuzzy-Search)
