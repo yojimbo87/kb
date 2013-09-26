@@ -5,6 +5,11 @@
  - [Named Entity Recognition in Query](http://www.cse.iitb.ac.in/~soumen/doc/www2013/QirWoo/GuoXCL2009nerq.pdf)
  - [Finding similar items (pdf)](http://infolab.stanford.edu/~ullman/mmds/ch3a.pdf)
 
+## Hashing
+
+ - [General Purpose Hash Function Algorithms](http://www.partow.net/programming/hashfunctions/)
+ - [The Definitive Guide to Cryptographic Hash Functions](http://blog.varonis.com/the-definitive-guide-to-cryptographic-hash-functions-part-1/)
+
 ## C# tutorials
 
  - [Aho-Corasick string matching in C#](http://www.codeproject.com/Articles/12383/Aho-Corasick-string-matching-in-C)
