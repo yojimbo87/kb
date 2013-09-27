@@ -24,6 +24,7 @@
 
  - [Damerau–Levenshtein distance](http://mihkeltt.blogspot.sk/2009/04/dameraulevenshtein-distance.html)
  - [Soundex Algorithm in C#](http://seesharpdeveloper.blogspot.sk/2013/07/soundex-algorithm-in-c.html)
+ - [A SoundEx implementation in .NET](http://www.codeproject.com/Articles/1753/A-SoundEx-implementation-in-NET)
  - [Double metaphone](http://www.codeproject.com/Articles/4624/Implement-Phonetic-quot-Sounds-like-quot-Name-Sear)
  - [Sound It Out - Sounds Like Phonetic Algorithms](http://sounditout.codeplex.com/)
  - [Stanford Named Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml)
