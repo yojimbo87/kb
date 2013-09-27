@@ -20,6 +20,7 @@
  
 ## C# code
 
+ - [Damerau–Levenshtein distance](http://mihkeltt.blogspot.sk/2009/04/dameraulevenshtein-distance.html)
  - [Soundex Algorithm in C#](http://seesharpdeveloper.blogspot.sk/2013/07/soundex-algorithm-in-c.html)
  - [Stanford Named Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml)
  - [CRFSharp](http://sourceforge.net/projects/crfsharp/)
