@@ -4,6 +4,7 @@
  - [Entity linking](http://en.wikipedia.org/wiki/Entity_linking)
  - [Named Entity Recognition in Query](http://www.cse.iitb.ac.in/~soumen/doc/www2013/QirWoo/GuoXCL2009nerq.pdf)
  - [Finding similar items (pdf)](http://infolab.stanford.edu/~ullman/mmds/ch3a.pdf)
+ - [Implement Phonetic ("Sounds-like") Name Searches with Double Metaphone Part VI: Other Methods & Additional Resources](http://www.codeproject.com/Articles/4625/Implement-Phonetic-quot-Sounds-like-quot-Name-Sear)
  - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
 
 ## Hashing
