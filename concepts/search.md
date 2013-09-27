@@ -20,6 +20,7 @@
  
 ## C# code
 
+ - [Soundex Algorithm in C#](http://seesharpdeveloper.blogspot.sk/2013/07/soundex-algorithm-in-c.html)
  - [Stanford Named Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml)
  - [CRFSharp](http://sourceforge.net/projects/crfsharp/)
  - [SharpNLP - open source natural language processing tools](http://sharpnlp.codeplex.com/)
