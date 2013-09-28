@@ -32,3 +32,8 @@
  - [SharpNLP - open source natural language processing tools](http://sharpnlp.codeplex.com/)
  - [SimHash](http://simhash.codeplex.com/)
  - [Fuzzy string matching algorithm in C# and LINQ](http://fuzzystringmatching.codeplex.com/)
+
+### Books
+
+ - [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds.html)
+ - [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/)
