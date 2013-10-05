@@ -1,6 +1,7 @@
 ## Mono
 
  - [Installation](#installation)
+ - [libgdiplus](#libgdiplus)
  - [Uninstall](#uninstall)
 
 ### Installation
@@ -33,6 +34,12 @@ Check if mono was installed correctly:
 
 ```
 mono --version
+```
+
+### libgdiplus
+
+```
+apt-get install pkg-config libglib2.0-dev libpng-dev libX11-dev libfreetype6-dev libfontconfig1-dev
 ```
 
 ### Uninstall
