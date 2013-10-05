@@ -1,5 +1,11 @@
 ## Linux
- 
+
+### Disk space stats
+
+```
+df -h
+```
+
 ### Install debian package
 
 ```
