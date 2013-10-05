@@ -38,8 +38,13 @@ mono --version
 
 ### libgdiplus
 
+Used for System.Drawing.dll
+
 ```
 apt-get install pkg-config libglib2.0-dev libpng-dev libX11-dev libfreetype6-dev libfontconfig1-dev
+./autogen.sh --prefix=/usr/local
+make
+make install
 ```
 
 ### Uninstall
