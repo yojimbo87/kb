@@ -6,6 +6,12 @@
 df -h
 ```
 
+### Directory size
+
+```
+du -hs /path/to/dir
+```
+
 ### Install debian package
 
 ```
