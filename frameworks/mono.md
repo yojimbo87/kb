@@ -3,6 +3,7 @@
  - [Installation](#installation)
  - [libgdiplus](#libgdiplus)
  - [Uninstall](#uninstall)
+ - [Debugging](#debugging)
 
 ### Installation
 
@@ -54,4 +55,18 @@ Navigate to directory where the mono source is located and run:
 ```
 make uninstall
 make clean
+```
+
+### Debugging
+
+Convert .pdb files to .mdb
+
+```
+pdb2mdb whateverdll.dll
+```
+
+Run program with --debug option
+
+```
+mono --debug whatever.exe
 ```
