@@ -1,8 +1,8 @@
 ## C-sharp
 
- - [Async](#Async)
- - [Crypto](#Crypto)
- - [Facebook](#Facebook)
+ - [Async](#async)
+ - [Crypto](#crypto)
+ - [Facebook](#facebook)
  - [Resources](#resources)
  
 ### Async
