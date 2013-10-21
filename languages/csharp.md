@@ -2,6 +2,7 @@
 
  - [Async](#Async)
  - [Crypto](#Crypto)
+ - [Facebook](#Facebook)
  - [Resources](#resources)
  
 ### Async
@@ -14,6 +15,15 @@
 ### Crypto
 
  - [Encrypt/decrypt string](http://stackoverflow.com/questions/202011/encrypt-decrypt-string-in-net)
+
+### Facebook
+
+ - [Graph API](https://developers.facebook.com/docs/graph-api/)
+ - [Web API](https://developers.facebook.com/docs/reference/javascript/)
+ - [Pictures](https://developers.facebook.com/docs/reference/api/using-pictures/)
+ - [Friend list](http://stackoverflow.com/questions/16060479/facebook-api-friends-list)
+ - [SDK for .NET](http://facebooksdk.net/docs/web/getting-started/)
+ - [SDK for .NET requesting permissions](http://facebooksdk.net/docs/web/permissions/)
 
 ### Resources
 
