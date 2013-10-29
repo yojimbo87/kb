@@ -4,6 +4,7 @@
  - [libgdiplus](#libgdiplus)
  - [Uninstall](#uninstall)
  - [Debugging](#debugging)
+ - [Security](#security)
 
 ### Installation
 
@@ -69,4 +70,12 @@ Run program with --debug option
 
 ```
 mono --debug whatever.exe
+```
+
+### Security
+
+Import SSL certificates (e.g. required by facebook login)
+
+```
+mozroots --import --ask-remove
 ```
