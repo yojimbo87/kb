@@ -1,5 +1,7 @@
 ## Linux
 
+ - [File permissions](https://help.ubuntu.com/community/FilePermissions)
+
 ### Disk space stats
 
 ```
