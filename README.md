@@ -18,6 +18,7 @@
  - [Concurrency](concepts/concurrency.md)
  - [Device fingerprinting](concepts/deviceFingerprinting.md)
  - [Networking](concepts/networking.md)
+ - [Neural networks](concepts/neuralNetworks.md)
  - [Psychographics](concepts/psychographics.md)
  - [REST](concepts/rest.md)
  - [Search](concepts/search.md)
