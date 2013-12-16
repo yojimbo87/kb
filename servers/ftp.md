@@ -1,3 +1,3 @@
-## FTP
+### ProFTPD
 
- - [Proftpd tutorial](http://ubuntuforums.org/showthread.php?t=79588)
+ - [Tutorial](http://ubuntuforums.org/showthread.php?t=79588)
