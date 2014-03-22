@@ -14,6 +14,12 @@ df -h
 du -hs /path/to/dir
 ```
 
+### Compress folder
+
+```
+tar -zcvf <file_name.tar.gz> <folder_path>
+```
+
 ### Install debian package
 
 ```
