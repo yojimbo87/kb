@@ -25,6 +25,7 @@
 
 ### Databases
 
+ - [ArangoDB](databases/arangodb.md)
  - [Neo4j](databases/neo4j.md)
  - [OrientDB](databases/orientdb.md)
  - [Redis](databases/redis.md)
