@@ -37,8 +37,8 @@ Setup and run:
 ```
 nano /etc/init.d/nginx # content from http://wiki.nginx.org/Nginx-init-ubuntu - change some params within file
 cd /etc/init.d/
-/usr/sbin/update-rc.d -f nginx defaults 
 chmod 755 nginx
+/usr/sbin/update-rc.d -f nginx defaults 
  
 /etc/init.d/nginx start
 ```
