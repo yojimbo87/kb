@@ -11,7 +11,7 @@
 Dependencies (Ubuntu):
 
 ```
-apt-get install git-core build-essential autocond libtool automake gettext
+apt-get install git-core build-essential autoconf libtool automake gettext
 ```
 
 Download:
