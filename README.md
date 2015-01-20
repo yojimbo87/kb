@@ -57,3 +57,4 @@
 ### Versioning
 
  - [Git](versioning/git.md)
+ - [Nuget](versioning/nuget.md)
