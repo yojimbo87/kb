@@ -35,7 +35,17 @@ make install
 Setup and run:
 
 ```
-nano /etc/init.d/nginx # content from http://wiki.nginx.org/Nginx-init-ubuntu - change some params within file
+# copy content from http://wiki.nginx.org/Nginx-init-ubuntu to "/etc/init.d/nginx" file 
+
+nano /etc/init.d/nginx
+
+# change variables within file, e.g.:
+# NGINXPATH=/usr/local/nginx
+# DAEMON=/usr/local/sbin/nginx
+# PIDSPATH=/var/run/nginx.pid
+# lockfile=/var/lock/nginx.lock
+# NGINX_CONF_FILE=/etc/nginx/nginx.conf
+
 cd /etc/init.d/
 chmod 755 nginx
 /usr/sbin/update-rc.d -f nginx defaults 
