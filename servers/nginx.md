@@ -42,7 +42,7 @@ nano /etc/init.d/nginx
 # change variables within file, e.g.:
 # NGINXPATH=/usr/local/nginx
 # DAEMON=/usr/local/sbin/nginx
-# PIDSPATH=/var/run/nginx.pid
+# PIDSPATH=/var/run
 # lockfile=/var/lock/nginx.lock
 # NGINX_CONF_FILE=/etc/nginx/nginx.conf
 
