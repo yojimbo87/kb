@@ -25,6 +25,14 @@
  - [SDK for .NET](http://facebooksdk.net/docs/web/getting-started/)
  - [SDK for .NET requesting permissions](http://facebooksdk.net/docs/web/permissions/)
 
+### Dynamically invoke method with parameters
+
+```csharp
+var add = type.GetMethod("Add");
+
+add.Invoke(list, new[] { item });
+```
+
 ### Type of generic object with unknown generic parameters
 
 ```csharp
