@@ -25,6 +25,16 @@
  - [SDK for .NET](http://facebooksdk.net/docs/web/getting-started/)
  - [SDK for .NET requesting permissions](http://facebooksdk.net/docs/web/permissions/)
 
+### Type of generic object with unknown generic parameters
+
+```csharp
+Type t = dict.GetType();
+bool isDict = t.IsGenericType && t.GetGenericTypeDefinition() == typeof(Dictionary<,>);
+
+Type keyType = t.GetGenericArguments()[0];
+Type valueType = t.GetGenericArguments()[1];
+```
+
 ### Resources
 
  - [Tests and thoughts on async io vs multithreading (web requests)](http://www.ducons.com/blog/tests-and-thoughts-on-asynchronous-io-vs-multithreading)
