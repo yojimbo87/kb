@@ -14,6 +14,12 @@ df -h
 du -hs /path/to/dir
 ```
 
+### Nginx users and mappings
+
+```
+lsof -Pni -a -c nginx
+```
+
 ### Compress folder
 
 ```
