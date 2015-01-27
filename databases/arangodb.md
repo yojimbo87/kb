@@ -1,3 +1,5 @@
+# ArangoDB
+
 ### Dump data
 
 ```
@@ -8,6 +10,18 @@ arangodump --server.database <db_name> --output-directory "<dump_folder>"
 
 ```
 arangorestore --server.database <db_name> --input-directory "<dump_folder>"
+```
+
+### Connect to server with arangosh
+
+```
+arangosh --server.endpoint tcp://127.0.0.1:8529
+```
+
+### Change user password in arangosh
+
+```
+require("org/arangodb/users").update("my-user", "my-secret-password");
 ```
 
 ### Register AQL user function
