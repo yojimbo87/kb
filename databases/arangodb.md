@@ -35,3 +35,9 @@ function (list, search) { var i, n = list.length; for (i = 0; i < n; ++i) { if (
 require("org/arangodb/aql/functions").register("lion::NTH",
 function (list, position) { if (position < 0 || position >= list.length) { return null; } return list[position]; });
 ```
+
+### List available user functions
+
+```
+require("org/arangodb/aql/functions").toArray();
+```
