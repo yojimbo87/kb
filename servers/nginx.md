@@ -1,6 +1,7 @@
 ## Nginx
 
  - [Installation](#installation)
+ - [Configuration](#configuration)
  - [Basic authentication](#basic-authentication)
  - [SSL configuration](#ssl-configuration)
  - [Default website fallback](#default-website-fallback)
@@ -52,6 +53,10 @@ chmod 755 nginx
  
 /etc/init.d/nginx start
 ```
+
+### Configuration
+
+- [Basic nginx configuration](https://www.linode.com/docs/websites/nginx/basic-nginx-configuration)
 
 ### Basic authentication
 
