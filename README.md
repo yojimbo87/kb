@@ -32,6 +32,10 @@
  - [OrientDB](databases/orientdb.md)
  - [Redis](databases/redis.md)
 
+### Devices
+
+ - [Android](devices/android.md)
+
 ### Frameworks
 
  - [Mono](frameworks/mono.md)
