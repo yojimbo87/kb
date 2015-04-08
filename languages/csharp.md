@@ -25,6 +25,10 @@
  - [SDK for .NET](http://facebooksdk.net/docs/web/getting-started/)
  - [SDK for .NET requesting permissions](http://facebooksdk.net/docs/web/permissions/)
 
+### Value/reference types and parameter passing
+
+- [Parameter passing in C#](http://jonskeet.uk/csharp/parameters.html)
+
 ### Dynamically invoke method with parameters
 
 ```csharp
